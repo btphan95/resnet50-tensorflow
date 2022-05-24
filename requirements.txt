@@ -6,4 +6,4 @@ starlette==0.13.3
 uvicorn==0.11.3
 
 keras==2.2.4
-tensorflow==1.13.1
+tensorflow==2.6.4
